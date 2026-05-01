@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🐼 AurelTyson
 
-<!--
-**AurelTyson/AurelTyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 iOS developer at [Pictarine](https://github.com/Pictarine).
 
-Here are some ideas to get you started:
+### 🛠️ Day to day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Swift · SwiftUI · The Composable Architecture (TCA)
+
+### 🧪 Also dabbled in
+
+open data · server-side Swift with Vapor
+
+### 🔗 Elsewhere
+
+[aureltyson.info](https://www.aureltyson.info/) · [@Aurel_Tyson](https://twitter.com/Aurel_Tyson)
